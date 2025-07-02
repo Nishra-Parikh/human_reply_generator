@@ -32,7 +32,7 @@ This system uses:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourname/human-reply-generator.git
+git clone https://github.com/Nishra-Parikh/human_reply_generator.git
 cd human-reply-generator
 
 ### 2.Create virtual environment
